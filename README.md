@@ -4,7 +4,7 @@ After finding the variance and covariance  values, I calculated the slope and in
 
 **Then I found out the residual error, regression error and total error to find the R-square value. The last step was to plot the best fit time.**
 
-**This tutorial will be helpful for anyone who wants to know the maths intiution behind linear regression.**
+**This tutorial will be helpful for anyone who wants to know the maths intuition behind linear regression.**
  
  
 
