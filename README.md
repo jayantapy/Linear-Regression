@@ -15,5 +15,5 @@ After finding the variance and covariance  values, I calculated the slope and in
 
 
 
-## I would suggest to first try and understand the 1st type and then go for the 2nd type.
+### I would suggest to first try and understand the 1st type and then go for the 2nd type.
   ### Thank you. Feel free to connect.
